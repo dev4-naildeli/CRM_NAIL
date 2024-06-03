@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799365403112",
+    "project_id": "nailcrm-dee94",
+    "storage_bucket": "nailcrm-dee94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799365403112:android:3a9aec76c75fde873f945d",
+        "android_client_info": {
+          "package_name": "com.example.cmr_nail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSj_3N8co2Qn60PSNUHJA9lu0HaALN2oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
